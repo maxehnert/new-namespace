@@ -31,14 +31,14 @@ wendy.object = function( ironYard, age) {
 
 // FUNCTION FIRST
 
-var list = [1,2,3];
-var n = max.first;
-  max.first = function(list){
-    return(list[0]);
-
-  };
-
-  console.log(list[0]);
+// var list = [1,2,3];
+// var n = max.first;
+//   max.first = function(list){
+//     return(list[0]);
+//
+//   };
+//
+//   console.log(list[0]);
 
 
 // FUNCTION SIZE
