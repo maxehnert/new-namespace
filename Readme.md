@@ -1,3 +1,3 @@
-## Yo, I'm a Readme
+## Building _.js functions without jquery or underscore
 
-You should probably update me so people looking at your code have an idea what it is being used for :)
+Created several functions using vanilla javascript. 
