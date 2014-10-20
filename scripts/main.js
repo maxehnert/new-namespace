@@ -1,3 +1,5 @@
+(function() {
+
 var max = {};
 // FUNCTION OBJECT
 
@@ -80,7 +82,7 @@ max.size = function (list) {
 
 // **************NOT MY WORK BELOW. JUST EXAMPLES FOR MY REFERENCE. *****************//
 
-(function() {
+
 
 	// Setup my Main Object
 	var root = this;
