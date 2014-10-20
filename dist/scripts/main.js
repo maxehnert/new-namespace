@@ -1,4 +1,4 @@
-
+var max = {};
 // FUNCTION OBJECT
 
 var arr1 = [];
